@@ -27,6 +27,7 @@
 ## Specs
 
 	. Ruby version : 2.5.1
+	. PostgreSQL version : 9.5
 
 ## Installation
 
